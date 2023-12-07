@@ -1,0 +1,10 @@
+D:\applications\MoveAndResizeControls\MoveAndResizeControls\bin\Release\MoveAndResizeControls.exe.config
+D:\applications\MoveAndResizeControls\MoveAndResizeControls\bin\Release\MoveAndResizeControls.exe
+D:\applications\MoveAndResizeControls\MoveAndResizeControls\bin\Release\MoveAndResizeControls.pdb
+D:\applications\MoveAndResizeControls\MoveAndResizeControls\obj\x86\Release\MoveAndResizeControls.csproj.AssemblyReference.cache
+D:\applications\MoveAndResizeControls\MoveAndResizeControls\obj\x86\Release\MoveAndResizeControls.Form1.resources
+D:\applications\MoveAndResizeControls\MoveAndResizeControls\obj\x86\Release\MoveAndResizeControls.Properties.Resources.resources
+D:\applications\MoveAndResizeControls\MoveAndResizeControls\obj\x86\Release\MoveAndResizeControls.csproj.GenerateResource.cache
+D:\applications\MoveAndResizeControls\MoveAndResizeControls\obj\x86\Release\MoveAndResizeControls.csproj.CoreCompileInputs.cache
+D:\applications\MoveAndResizeControls\MoveAndResizeControls\obj\x86\Release\MoveAndResizeControls.exe
+D:\applications\MoveAndResizeControls\MoveAndResizeControls\obj\x86\Release\MoveAndResizeControls.pdb
